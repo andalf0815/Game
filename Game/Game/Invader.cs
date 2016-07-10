@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace TreehouseDefense
 {
-    class Game
+    class Invader
     {
-        static void Main(string[] args)
-        {
-            Tower tower = new Tower();
-        }
     }
 }
