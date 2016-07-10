@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game
+namespace TreehouseDefense
 {
-    class Program
+    class Game
     {
         static void Main(string[] args)
         {
