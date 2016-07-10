@@ -7,7 +7,7 @@
     <ProjectGuid>{FBF4A4B3-F117-4BCF-8342-4B109A625BD5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Game</RootNamespace>
+    <RootNamespace>TreehouseDefense</RootNamespace>
     <AssemblyName>Game</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
